@@ -1,0 +1,13 @@
+container_id,origin,destination,departure_date,estimated_arrival,actual_arrival,transit_days
+CONT001,Chennai,Singapore,2026-10-01,2026-10-06,2026-10-07,5
+CONT002,Mumbai,Rotterdam,2026-10-02,2026-10-18,2026-10-19,16
+CONT003,Chennai,Dubai,2026-10-03,2026-10-08,2026-10-08,5
+CONT004,Kolkata,Singapore,2026-10-04,2026-10-02,, -2
+CONT005,Nhava Sheva,Hamburg,2026-10-05,2026-10-20,,15
+CONT006,Chennai,Colombo,2026-10-06,2026-10-10,,4
+CONT006,Chennai,Colombo,2026-10-06,2026-10-10,,4
+CONT008,,Singapore,2026-10-08,2026-10-13,,5
+CONT009,Mumbai,Rotterdam,2026-10-09,not-a-date,,10
+CONT010,Chennai,Dubai,2026-10-10,2026-10-15,2026-10-14,5
+CONT011,Chennai,Tokyo,2026-10-11,2026-10-20,,12
+CONT012,Mumbai,London,2026-10-12,2026-10-24,,12
